@@ -2,7 +2,8 @@
 # Abhinav Arya
 I am an IISc and IIT(BHU) alumnus and I am aspiring to be Computer Vision Data Scientist. I am a PhD in engineering and also have a science based youtube channel with more than 2.7K subscriber, where I explains the common concepts related to physics in a simple language. During my PhD, I gained significant experience with python and data analysis of large experimental data. For the past 1 year I am learning data science and machine learning with a focus on computer vision and I believe that now I have gained significant expertise in the field.
 
-#### Skills: Python/OpenCV/Pandas/ScikitLearn/Tensorflow
+## Skills 
+#### Python/OpenCV/Pandas/ScikitLearn/Tensorflow
 
 ## Example of work
 <img src= 'https://github.com/AbhinavArya1990/AbhinavArya1990/blob/main/name_writing.gif' width=256 />
