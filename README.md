@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Abhinav Arya
-![](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![](https://github.com/AbhinavArya1990/car-price/blob/main/git_banner.JPG?raw=true)
 
 I am an IISc and IIT(BHU) alumnus and I am aspiring to be Computer Vision Data Scientist.  
 
