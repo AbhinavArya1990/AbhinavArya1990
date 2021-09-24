@@ -5,6 +5,11 @@ I am an IISc and IIT(BHU) alumnus and I am aspiring to be Computer Vision Data S
 ## Skills 
 #### Python/OpenCV/Pandas/ScikitLearn/Tensorflow
 
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=AbhinavArya1990&show_icons=true)  
+
+
+
 ## Example of work
 <img src= 'https://github.com/AbhinavArya1990/AbhinavArya1990/blob/main/name_writing.gif' width=256 />
 
